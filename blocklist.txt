@@ -1,0 +1,10 @@
+! Title: dewhurstwill - Blocklist
+! Expires: 1 day
+! Issue tracker: https://github.com/dewhurstwill/adguard
+! Homepage: https://github.com/dewhurstwill/adguard
+! Description: Custom blocklist for ADGuard by @dewhurstwill
+! Version: 20230628
+
+||polyfill.io^
+||googie-anaiytics.com^
+||kuurza.com^
